@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>testrelease</artifactId>
-    <version>0.0.8</version>
+    <version>0.0.9-SNAPSHOT</version>
     <name>testrelease</name>
     <description>Demo project for maven release</description>
     <properties>
@@ -20,7 +20,7 @@
         <connection>scm:git:https://github.com/oudehomar/testrelease.git</connection>
         <url>https://github.com/oudehomar/testrelease</url>
         <developerConnection>scm:git:https://github.com/oudehomar/testrelease.git</developerConnection>
-      <tag>testrelease-0.0.8</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
